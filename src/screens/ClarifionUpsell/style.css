@@ -1,0 +1,1500 @@
+.clarifion-upsell {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.clarifion-upsell .div {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.clarifion-upsell .frame {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+}
+
+.clarifion-upsell .frame-2 {
+  align-items: center;
+  background-color: #252f3d;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 10px 20px;
+  position: relative;
+  width: 360px;
+}
+
+.clarifion-upsell .layer {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.clarifion-upsell .element {
+  height: 22px;
+  position: relative;
+  width: 229px;
+}
+
+.clarifion-upsell .img {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.clarifion-upsell .text-wrapper {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.clarifion-upsell .frame-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 320px;
+}
+
+.clarifion-upsell .img-2 {
+  height: 20px;
+  object-fit: cover;
+  position: relative;
+  width: 106.67px;
+}
+
+.clarifion-upsell .frame-4 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.clarifion-upsell .frame-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 20px;
+  position: absolute;
+  top: 134px;
+}
+
+.clarifion-upsell .frame-6 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 320px;
+}
+
+.clarifion-upsell .wait-your-order-in {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.clarifion-upsell .lorem-ipsum-dolor {
+  align-self: stretch;
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  text-align: center;
+}
+
+.clarifion-upsell .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.clarifion-upsell .group {
+  background-color: #85bf55;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.clarifion-upsell .tick-circle {
+  height: 9px;
+  left: 4px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.clarifion-upsell .text-wrapper-2 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .overlap-group-wrapper {
+  height: 20px;
+  position: relative;
+  width: 22px;
+}
+
+.clarifion-upsell .overlap-group {
+  background-color: #2c7ef8;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.clarifion-upsell .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 15.4px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.clarifion-upsell .text-wrapper-4 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .div-wrapper {
+  border: 1px solid;
+  border-color: #2c7ef8;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.clarifion-upsell .text-wrapper-5 {
+  color: #2c7ef8;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 15.4px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.clarifion-upsell .frame-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 320px;
+}
+
+.clarifion-upsell .ONE-TIME-ONLY {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Manrope", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.clarifion-upsell .span {
+  color: #2c7ef8;
+}
+
+.clarifion-upsell .text-wrapper-6 {
+  color: #000000;
+}
+
+.clarifion-upsell .image {
+  height: 328px;
+  object-fit: cover;
+  position: relative;
+  width: 320px;
+}
+
+.clarifion-upsell .frame-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .frame-10 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 320px;
+}
+
+.clarifion-upsell .group-2 {
+  background-color: #2c7ef8;
+  background-image: url(https://cdn.animaapp.com/projects/6509bb4a44f086421d10f9d5/releases/6509bb5a465e275981b5f8b0/img/image-removebg-preview--12--1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 10px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.clarifion-upsell .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.clarifion-upsell .frame-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .text-wrapper-7 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.clarifion-upsell .text-wrapper-8 {
+  color: #969696;
+  font-family: "Manrope", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: line-through;
+  text-shadow: 0px 6px 32px #00000061;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .text-wrapper-9 {
+  color: #2c7ef8;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .stars {
+  height: 12px;
+  position: relative;
+  width: 68px;
+}
+
+.clarifion-upsell .frame-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.clarifion-upsell .ellipse-wrapper {
+  background-color: #e3edff;
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.clarifion-upsell .ellipse {
+  background-color: #2c7ef8;
+  border-radius: 3px;
+  height: 6px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 6px;
+}
+
+.clarifion-upsell .text-wrapper-10 {
+  color: #37465a;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.39px;
+  position: relative;
+  width: fit-content;
+}
+
+.clarifion-upsell .p {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-right: -6px;
+  position: relative;
+  text-align: center;
+  width: 326px;
+}
+
+.clarifion-upsell .frame-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.clarifion-upsell .img-3 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.clarifion-upsell .div-2 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .text-wrapper-11 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+}
+
+.clarifion-upsell .text-wrapper-12 {
+  font-weight: 700;
+}
+
+.clarifion-upsell .frame-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #edf3fc;
+  border-radius: 10px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 12px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .frame-16 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .percent-wrapper {
+  background-color: #2c7ef8;
+  border-radius: 12px;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.clarifion-upsell .percent {
+  height: 14px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+
+.clarifion-upsell .save-and-get {
+  color: transparent;
+  flex: 1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.clarifion-upsell .frame-17 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .frame-18 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #59ae43;
+  border-radius: 50px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 64px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .frame-19 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  margin-left: -7.5px;
+  margin-right: -7.5px;
+  position: relative;
+}
+
+.clarifion-upsell .yes-claim-my {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.99px;
+  position: relative;
+  width: fit-content;
+}
+
+.clarifion-upsell .line {
+  height: 14.55px;
+  margin-right: -0.99px;
+  position: relative;
+  width: 12.99px;
+}
+
+.clarifion-upsell .frame-20 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #cfcfcf;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.clarifion-upsell .frame-21 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.clarifion-upsell .free-shipping {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .line-2 {
+  height: 14px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.clarifion-upsell .frame-22 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.clarifion-upsell .lock {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.clarifion-upsell .secure-bit-SSL {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .line-3 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 289px;
+}
+
+.clarifion-upsell .no-thanks-i-don-t {
+  color: #f82c2c;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .img-4 {
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+
+.clarifion-upsell .if-you-are-not {
+  align-self: stretch;
+  color: #4d5254;
+  flex: 1;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.clarifion-upsell .text-wrapper-13 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+}
+
+.clarifion-upsell .frame-24 {
+  align-items: center;
+  background-color: #252f3d;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  padding: 20px;
+  position: absolute;
+  top: 1417px;
+  width: 360px;
+}
+
+.clarifion-upsell .frame-25 {
+  align-items: center;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 8px 0px;
+  position: relative;
+}
+
+.clarifion-upsell .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .lock-2 {
+  height: 13px;
+  position: relative;
+  width: 13px;
+}
+
+.clarifion-upsell .secure-bit-SSL-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .USPS {
+  background-color: #252f3d;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.clarifion-upsell .element-2 {
+  height: 22px;
+  left: 127px;
+  position: absolute;
+  top: 15px;
+  width: 229px;
+}
+
+.clarifion-upsell .element-3 {
+  height: 22px;
+  left: 468px;
+  position: absolute;
+  top: 15px;
+  width: 259px;
+}
+
+.clarifion-upsell .element-4 {
+  height: 22px;
+  left: 847px;
+  position: absolute;
+  top: 15px;
+  width: 194px;
+}
+
+.clarifion-upsell .element-5 {
+  height: 22px;
+  left: 1154px;
+  position: absolute;
+  top: 15px;
+  width: 211px;
+}
+
+.clarifion-upsell .overlap {
+  height: 161px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 1500px;
+}
+
+.clarifion-upsell .frame-26 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  padding: 30px 127px;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.clarifion-upsell .img-5 {
+  height: 36px;
+  object-fit: cover;
+  position: relative;
+  width: 192px;
+}
+
+.clarifion-upsell .frame-27 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 432px;
+  position: absolute;
+  top: 85px;
+}
+
+.clarifion-upsell .wait-your-order-in-2 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .lorem-ipsum-dolor-2 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-28 {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  height: 879px;
+  left: 128px;
+  overflow: hidden;
+  position: absolute;
+  top: 351px;
+  width: 1245px;
+}
+
+.clarifion-upsell .image-2 {
+  height: 591px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 575px;
+}
+
+.clarifion-upsell .frame-29 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 655px;
+  position: absolute;
+  top: 40px;
+}
+
+.clarifion-upsell .ONE-TIME-ONLY-2 {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Manrope", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.clarifion-upsell .frame-30 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .group-3 {
+  background-color: #2c7ef8;
+  background-image: url(https://cdn.animaapp.com/projects/6509bb4a44f086421d10f9d5/releases/6509bb5a465e275981b5f8b0/img/image-removebg-preview--12--1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 10px;
+  height: 134px;
+  position: relative;
+  width: 134px;
+}
+
+.clarifion-upsell .frame-31 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.clarifion-upsell .text-wrapper-15 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-32 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.clarifion-upsell .text-wrapper-16 {
+  color: #969696;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: line-through;
+  text-shadow: 0px 6px 32px #00000061;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .text-wrapper-17 {
+  color: #2c7ef8;
+  font-family: "Manrope", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .stars-2 {
+  height: 18px;
+  position: relative;
+  width: 98px;
+}
+
+.clarifion-upsell .group-4 {
+  background-color: #e3edff;
+  border-radius: 8px;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.clarifion-upsell .ellipse-2 {
+  background-color: #2c7ef8;
+  border-radius: 4.27px;
+  height: 9px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 9px;
+}
+
+.clarifion-upsell .text-wrapper-18 {
+  color: #37465a;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.39px;
+  position: relative;
+  width: fit-content;
+}
+
+.clarifion-upsell .text-wrapper-19 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-right: -6px;
+  position: relative;
+  width: 398px;
+}
+
+.clarifion-upsell .tick-circle-2 {
+  height: 22px;
+  margin-left: -0.25px;
+  position: relative;
+  width: 22.5px;
+}
+
+.clarifion-upsell .negative-ion {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: relative;
+  width: 447px;
+}
+
+.clarifion-upsell .text-wrapper-20 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.6px;
+}
+
+.clarifion-upsell .div-3 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-33 {
+  align-items: flex-start;
+  background-color: #edf3fc;
+  border-radius: 10px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px 16px;
+  position: relative;
+  width: 542px;
+}
+
+.clarifion-upsell .img-wrapper {
+  background-color: #2c7ef8;
+  border-radius: 16px;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.clarifion-upsell .percent-2 {
+  height: 19px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 19px;
+}
+
+.clarifion-upsell .save-and-get-2 {
+  color: transparent;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-34 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 542px;
+}
+
+.clarifion-upsell .frame-35 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 19.76px;
+  position: relative;
+}
+
+.clarifion-upsell .yes-claim-my-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.99px;
+  position: relative;
+  width: fit-content;
+}
+
+.clarifion-upsell .line-4 {
+  height: 14.55px;
+  margin-right: -0.99px;
+  position: relative;
+  width: 16.99px;
+}
+
+.clarifion-upsell .frame-36 {
+  align-items: center;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: #cfcfcf;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.clarifion-upsell .free-shipping-2 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-left: -2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .line-5 {
+  height: 16px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.clarifion-upsell .frame-37 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.clarifion-upsell .frame-38 {
+  flex: 0 0 auto;
+  margin-right: -2px;
+  position: relative;
+}
+
+.clarifion-upsell .no-thanks-i-don-t-2 {
+  color: #f82c2c;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.clarifion-upsell .image-3 {
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+
+.clarifion-upsell .if-you-are-not-2 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  width: 446px;
+}
+
+.clarifion-upsell .text-wrapper-21 {
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.clarifion-upsell .frame-39 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  left: 40px;
+  padding: 24px;
+  position: absolute;
+  top: 655px;
+  width: 575px;
+}
+
+.clarifion-upsell .frame-40 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.clarifion-upsell .name {
+  height: 35.3px;
+  position: relative;
+  width: 176px;
+}
+
+.clarifion-upsell .stars-3 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.clarifion-upsell .frame-41 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+}
+
+.clarifion-upsell .text-wrapper-22 {
+  color: #333333;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .verify {
+  height: 16px;
+  margin-right: -2px;
+  position: relative;
+  width: 128px;
+}
+
+.clarifion-upsell .text-wrapper-23 {
+  color: #5bb59a;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.clarifion-upsell .verify-2 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.clarifion-upsell .text-wrapper-24 {
+  align-self: stretch;
+  color: #4d5254;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.clarifion-upsell .frame-42 {
+  background-color: #252f3d;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 1291px;
+  width: 1500px;
+}
+
+.clarifion-upsell .frame-43 {
+  align-items: center;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 16px;
+  left: 127px;
+  padding: 8px 0px;
+  position: absolute;
+  top: 24px;
+}
+
+.clarifion-upsell .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .line-6 {
+  height: 24px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.clarifion-upsell .frame-44 {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  left: 1120px;
+  position: absolute;
+  top: 36px;
+}
+
+.clarifion-upsell .secure-bit-SSL-3 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .frame-45 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 128px;
+  position: absolute;
+  top: 271px;
+  width: 1245px;
+}
+
+.clarifion-upsell .frame-46 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.clarifion-upsell .tick-circle-wrapper {
+  background-color: #85bf55;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.clarifion-upsell .tick-circle-3 {
+  height: 17px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 23px;
+}
+
+.clarifion-upsell .text-wrapper-26 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .group-5 {
+  height: 40px;
+  position: relative;
+  width: 42px;
+}
+
+.clarifion-upsell .overlap-group-2 {
+  background-color: #2c7ef8;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.clarifion-upsell .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.clarifion-upsell .text-wrapper-28 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.clarifion-upsell .overlap-group-3 {
+  border: 2px solid;
+  border-color: #2c7ef8;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.clarifion-upsell .text-wrapper-29 {
+  color: #2c7ef8;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
